@@ -1,0 +1,24 @@
+	***************************************************************************************************************************************************************
+        *                                                                                                                                                             *
+	*                                                                                                                                                             *
+	*     1. Skrypt wykonuje funkcje Automatyczne. Tworzenie użytkownika, proszony jest o podanie nazwy i hasła. Możliwe jest również utworzenie nowej grupy/     *
+	*     Za pomocą klawiatury można wybrać jedną z funkcji.                                                                                                      *
+	*                                                                                                                                                             *
+	*     2. Ten skrypt składa się z funkcji wejściowych: echo -- wyświetla tekst lub podpowiedzi, które są łatwe w nawigacji.                                    *
+	*     if / then zakłada -- czy kod zakończenia polecenia wynosi 0 (ponieważ 0 oznacza "sukces")                                                               *
+	*     read -- polecenie, które czeka na wprowadzenie danych od użytkownika, a następnie pokazuje je w razie potrzeby                                          *
+	*     polecenie -- if -- po którym następuje wyrażenie warunkowe i --Then-- słowo kluczowe. Oświadczenie kończy się słowem kluczowym --fi--.                  *
+	*                                                                                                                                                             *
+	*     3.Problem polegał na tym, jak ukryć polecenie --root--.                                                                                                 *
+	*     jak ukryć komendę --root-- spojrzałem na forum.                                                                                                         *
+	*     robiłem wszystko w kawałkach dane wejściowe,struktury if / elif/ i menu. Bardzo trudno było połączyć wszystkie elementy w jedną całość.                 *
+	*     Było bardzo dużo błędów i dane nie mogły ze sobą współpracować. Pomagali mi na forum gdy były trudne sytuacje.                                          *
+	*                                                                                                                                                             *
+	***************************************************************************************************************************************************************
+
+
+
+
+
+
+
